@@ -55,7 +55,7 @@
 form {
     font-family: 'Fredoka One';
     padding: 10px;
-    background-color: grey;
+    background-color: #f0b22b;
 }
     h2, p {
         font-family: 'Fredoka One', Helvetica, Arial;
@@ -82,7 +82,7 @@ form {
     }
 
     header{
-        background-color: #808080;
+        background-color: #f0b22b;
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -97,7 +97,7 @@ form {
 
     }
     body{ 
-        background-color: #dbdbdb;
+        background-color: #f0b22b;
     }
     section{
         display: -webkit-box;
